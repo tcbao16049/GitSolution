@@ -27,6 +27,11 @@ namespace GitProject.Controllers
             return View();
         }
 
+        private void HelloBao()
+        {
+
+        }
+
         public void GoToRegister()
         {
 
